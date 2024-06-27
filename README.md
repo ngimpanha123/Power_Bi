@@ -1,4 +1,4 @@
-# Personal Finance Dashboard
+# Finance Dashboard
 
 ## Project Overview
 
@@ -63,7 +63,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 If you have any questions or feedback, feel free to reach out:
 
-- **Email**: your-email@example.com
+- **Email**: ngimpanha123@gmail.com
 - **GitHub**: [ngimpanha123](https://github.com/ngimpanha123)
 
 ---
